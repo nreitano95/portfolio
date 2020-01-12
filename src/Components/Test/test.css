@@ -5,7 +5,6 @@
     display: block;
     height: 200px;
     overflow-y: scroll;
-    scroll-behavior: smooth;
     text-align: center;
     width: 200px;
   }

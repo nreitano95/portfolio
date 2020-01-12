@@ -45,11 +45,11 @@
 /* Go To Top Button */
 #go-top {
    position: absolute;
-   top: -24px;
+   top: -50px;
    left: 50%;
    margin-left: -30px;
 }
-#go-top a {
+#go-top p {
    text-decoration: none;
    border: 0 none;
    display: block;
@@ -68,4 +68,4 @@
    line-height: 60px;
    border-radius: 100%;
    }
-#go-top a:hover { background-color: var(--main-accent-color); }
+#go-top p:hover { background-color: var(--main-accent-color); }

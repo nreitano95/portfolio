@@ -8,7 +8,6 @@ header {
     background-size: cover !important;
      -webkit-background-size: cover !important;
     text-align: center;
-    scroll-behavior: smooth;
  }
  
  header:before {
@@ -69,7 +68,7 @@ header {
     border-color: var(--main-accent-color)
  }
  
- header .scrolldown a {
+ header .scrolldown {
     position: absolute;
     bottom: 30px;
     left: 50%;
@@ -87,7 +86,10 @@ header {
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
  }
- header .scrolldown a:hover { color: var(--main-accent-color); }
+ header .scrolldown :hover { 
+    color: var(--main-accent-color); 
+    cursor: pointer;   
+   }
  
  #nav-wrap ul, #nav-wrap li, #nav-wrap a {
       margin: 0;
@@ -121,6 +123,7 @@ header {
     list-style: none;
     height: 48px;
     display: inline-block;
+    cursor: pointer;
  }
  
  ul#nav li a {
