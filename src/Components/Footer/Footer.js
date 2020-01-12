@@ -38,14 +38,12 @@ class Footer extends React.Component {
             </ul>
           </nav>
           <div id="copywrite">
-            All Rights Reserved - 2019
+            All Rights Reserved - 2020
           </div>
         <div id="go-top">
         <p className="smoothscroll">
             <Link activeClass="active" className="icon-up-open" to="home" spy={true} smooth={true} duration={500}></Link> 
-         </p>
-          {/* <a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a> */}
-          
+         </p>          
           </div>
       </div>
     </footer>
