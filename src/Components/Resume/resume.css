@@ -1,0 +1,14 @@
+#resume {
+   font: 10px/24px 'segoe UI';
+   color: white;
+   text-transform: uppercase;
+   background: var(--light-font-color);
+   padding-top: 50px;
+   padding-bottom: 72px;
+   overflow: hidden;
+   text-align: center;
+ }
+
+
+
+ 

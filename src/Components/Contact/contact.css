@@ -1,0 +1,17 @@
+#contact {
+    background: #191919;
+    padding-top: 396px;
+    padding-bottom: 400px;
+    color: #636363;
+    padding-left: 20%;
+    font: 10px/24px 'segoe UI';
+    color: white;
+    overflow: hidden;
+ }
+
+ #contact a {
+    font: 14px 'segoe UI';
+    margin: 0px;
+    display: block;
+    color: white;
+ }
