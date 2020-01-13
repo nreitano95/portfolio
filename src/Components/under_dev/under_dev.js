@@ -7,7 +7,7 @@ const under_dev = () => {
       <header id="home">
          <div className="banner">
             <div className="banner-text">
-               <h1 className="grow dib">Hi, I am Nick Reitano</h1><br/>
+               <h1 className="grow dib">Hello, World!</h1><br/>
                <h2 className="grow dib">Portfolio Under Development</h2><hr></hr>
             </div>
          </div>
