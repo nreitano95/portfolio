@@ -30,8 +30,7 @@ class Header extends React.Component {
 
          <div className="banner">
             <div className="banner-text">
-               <h1 className="grow dib">Hi, I am Nick Reitano</h1><br/>
-               <h2 className="grow dib">And I Like Technology</h2><hr></hr>
+               <h1 className="grow dib">Hello, World!</h1><br/><hr></hr>
             </div>
          </div>
 
