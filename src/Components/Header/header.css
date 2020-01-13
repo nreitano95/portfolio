@@ -117,6 +117,7 @@ header {
     min-height: 48px;
     width: auto;
     text-align: center;
+    background-color: rgb(245, 245, 245, 0.95);
  }
  ul#nav li {
     position: relative;
