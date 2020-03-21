@@ -16,4 +16,5 @@ body {
 html {
   font-size: 65%;
   -webkit-font-smoothing: antialiased;
+  background-color: whitesmoke;
 }
