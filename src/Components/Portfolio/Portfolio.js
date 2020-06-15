@@ -3,7 +3,7 @@ import Card from './Card';
 import projectOneImage from "../Portfolio/images/projectOneImage.jpg";
 import projectTwoImage from "../Portfolio/images/projectTwoImage.jpg";
 import projectThreeImage from "../Portfolio/images/projectThreeImage.jpg";
-import projectFourImage from "../Portfolio/images/projectFourImage.jpg";
+// import projectFourImage from "../Portfolio/images/projectFourImage.jpg";
 
  
 import './portfolio.css';

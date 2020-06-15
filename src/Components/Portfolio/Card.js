@@ -8,16 +8,17 @@ const Card = (props) => {
                 <div className="portfolio-card-inner">
                     <div className="portfolio-card-front">
                         <h1>{props.projectName}</h1>
-                        <img src={props.imageURL}></img>
+                        <img src={props.imageURL} alt="People Say I am the Best Boss"></img>
                     </div>
                     <div className="portfolio-card-back">
                         <h1>{props.projectName}</h1>
+                        <form action={props.projectLink}>
+                            <input id="view-btn" type="submit" value={props.projectLinkText} />
+                        </form> 
                         <form action={props.codeLink}>
                             <input id="view-btn" type="submit" value={props.codeLinkText} />
                         </form>
-                        <form action={props.projectLink}>
-                            <input id="view-btn" type="submit" value={props.projectLinkText} />
-                        </form>                         
+                        
                     </div>
                 </div>
             </div>
