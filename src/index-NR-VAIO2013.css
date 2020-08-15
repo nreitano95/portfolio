@@ -1,0 +1,19 @@
+@import url(../src/Components/Header/fontello/css/fontello.css);
+
+body { 
+  --main-accent-color: rgb(33, 175, 240);
+  --light-font-color: #777;
+  --dark-font-color: #444;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+html {
+  font-size: 65%;
+  -webkit-font-smoothing: antialiased;
+}

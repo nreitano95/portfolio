@@ -6,7 +6,7 @@ const About = () => {
       <section id="about">
         <div className="about-wrapper">
           <h1>ABOUT ME</h1>
-          <p>I am an engineer that turns ideas into reality. I am most concerned with designing elegant solutions in order to create modern and efficient user experiences. I design functional web applications using the following principles:</p>
+          <p>I am a software engineer that turns ideas into reality. I am most concerned with designing elegant solutions in order to create modern and efficient user experiences. I design functional web applications using the following principles:</p>
           <ul>
             <li>What is the big picture?</li>
             <li>Clean and efficient code = clean and efficient user-experience</li>
