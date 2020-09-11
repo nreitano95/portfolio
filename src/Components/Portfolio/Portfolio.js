@@ -13,7 +13,7 @@ const Portfolio = () => {
     <section id="portfolio">
       <section className="portfolio-wrapper">
         <div id='portfolio-title'>
-          <h1>Check Out Some of My Works.</h1>
+          <h1>Check Out Some of My Works</h1>
         </div>
         <div id="card-container">
           <Card id="card"
@@ -31,6 +31,13 @@ const Portfolio = () => {
             imageURL={projectTwoImage}
           />
           <Card id="card"
+            projectName={'Project 3'}
+            projectLink='#'
+            codeLinkText="View Code"
+            projectLinkText="View Site"
+            imageURL={projectThreeImage} 
+          />
+                    <Card id="card"
             projectName={'Project 3'}
             projectLink='#'
             codeLinkText="View Code"
