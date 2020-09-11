@@ -37,13 +37,7 @@ const Portfolio = () => {
             projectLinkText="View Site"
             imageURL={projectThreeImage} 
           />
-                    <Card id="card"
-            projectName={'Project 3'}
-            projectLink='#'
-            codeLinkText="View Code"
-            projectLinkText="View Site"
-            imageURL={projectThreeImage} 
-          />
+
           {/* <Card id="card"
             projectName={'Project 4'}
             projectLink='#'
